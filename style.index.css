@@ -21,13 +21,17 @@ ul {
 ;}
 
 .lasagna {
-border: #b37e2e;}
+border: #b37e2e;
+text-align: center;
+}
 
 .germanrouladen {
+    text-align: center;
     border: #b37e2e;
 }
 
 .blueberrymuffins {
+    text-align: center;
     border: #b37e2e;
 }
 
