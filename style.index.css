@@ -7,6 +7,9 @@
 .header {
     border: 1px solid #b37e2e;
     text-align: center ;
+    color: #614419;
+
+
     
 
 }
@@ -22,7 +25,7 @@ ul {
 
 .lasagna {
 border: #b37e2e;
-text-align: center;
+text-align: center ;
 }
 
 .germanrouladen {
@@ -43,10 +46,9 @@ text-align: center;
 }
 
 a {
-    color: #b37e2e; /* Ändert alle Links zu ... */
+    color: #614419; /* Ändert alle Links zu ... */
     text-decoration: none; /* Entfernt den Unterstrich (optional) */
     a:visited { color: #ffb343; }
     
  
-
 }
