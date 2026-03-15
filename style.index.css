@@ -8,15 +8,27 @@
     border: 1px solid #b37e2e;
     text-align: center ;
     color: #614419;
+    background-color: #DB9A39;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 10px;
 }
 
 .list {
     display: flex;
     list-style-type: none; /* Entfernt Bullets */
     gap: 20px; /* Abstand zwischen den Elementen */
-    border: 2px solid #b37e2e ;
-    padding: 40px ;
-    margin: 10px ;
+    border: 2px solid #DB9A39;
+    padding-top: 40px ;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    margin-top: 40px ;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
     background-color: #DB9A39
 }
 
@@ -26,13 +38,14 @@
     text-align: center ;
     height: 340px;
     /* overflow: hidden; */
+    border: 2px solid #b37e2e;
 }
 
 a {
     color: #614419; /* Ändert alle Links zu ... */
     text-decoration: none; /* Entfernt den Unterstrich (optional) */
     a:visited { color: #ffb343; }
-    font-size: larger;
+    font-size: x-large;
     
  
 }
