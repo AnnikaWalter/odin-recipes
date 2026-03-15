@@ -33,3 +33,12 @@ ul {
 .list {
     border: 2px solid blue
 }
+
+a {
+    color: #b37e2e; /* Ändert alle Links zu ... */
+    text-decoration: none; /* Entfernt den Unterstrich (optional) */
+    a:visited { color: #DB9A39; }
+    
+ 
+
+}
