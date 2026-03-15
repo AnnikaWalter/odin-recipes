@@ -5,7 +5,9 @@
 }
 
 .header {
-    border: 1px solid orange;
+    border: 1px solid #b37e2e;
+    text-align: center ;
+    
 
 }
 
@@ -19,25 +21,27 @@ ul {
 ;}
 
 .lasagna {
-    border: 1px solid black;
-}
+border: #b37e2e;}
 
 .germanrouladen {
-    border: 1px solid black
+    border: #b37e2e;
 }
 
 .blueberrymuffins {
-    border: 1px solid black
+    border: #b37e2e;
 }
 
 .list {
-    border: 2px solid blue
+    border: 2px solid #b37e2e ;
+    padding: 20px ;
+    margin: 100px ;
+    background-color: #DB9A39
 }
 
 a {
     color: #b37e2e; /* Ändert alle Links zu ... */
     text-decoration: none; /* Entfernt den Unterstrich (optional) */
-    a:visited { color: #DB9A39; }
+    a:visited { color: #ffb343; }
     
  
 
