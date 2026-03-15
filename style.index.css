@@ -8,41 +8,23 @@
     border: 1px solid #b37e2e;
     text-align: center ;
     color: #614419;
-
-
-    
-
-}
-
-ul {
-  display: flex;
-  list-style-type: none; /* Entfernt Bullets */
-  padding: o;
-  margin: 0;
-  gap: 20px; /* Abstand zwischen den Elementen */
-  border: 1px solid green
-;}
-
-.lasagna {
-border: #b37e2e;
-text-align: center ;
-}
-
-.germanrouladen {
-    text-align: center;
-    border: #b37e2e;
-}
-
-.blueberrymuffins {
-    text-align: center;
-    border: #b37e2e;
 }
 
 .list {
+    display: flex;
+    list-style-type: none; /* Entfernt Bullets */
+    gap: 20px; /* Abstand zwischen den Elementen */
     border: 2px solid #b37e2e ;
-    padding: 20px ;
+    padding: 40px ;
     margin: 10px ;
     background-color: #DB9A39
+}
+
+.listitem {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    text-align: center ;
 }
 
 a {
