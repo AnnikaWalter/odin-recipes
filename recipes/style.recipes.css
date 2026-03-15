@@ -34,9 +34,8 @@ ul, ol {
     display: flex;
     flex-direction: column;
     text-align: center ;
-    height: 340px;
     border: 4px solid #b37e2e;
     padding: 20px;
-    margin: 10px;
+    margin: 100px;
     font-size: large;
 }
