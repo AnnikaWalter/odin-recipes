@@ -12,8 +12,20 @@
 ul {
   display: flex;
   list-style-type: none; /* Entfernt Bullets */
-  padding: 0;
+  padding: o;
   margin: 0;
   gap: 20px; /* Abstand zwischen den Elementen */
-  border: 1px solid green;
+  border: 1px solid green
+;}
+
+.lasagna {
+    border: 1px solid black;
+}
+
+.germanrouladen {
+    border: 1px solid black
+}
+
+.blueberrymuffins {
+    border: 1px solid black
 }
